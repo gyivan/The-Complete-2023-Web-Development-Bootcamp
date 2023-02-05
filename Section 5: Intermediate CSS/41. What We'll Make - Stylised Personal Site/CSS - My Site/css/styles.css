@@ -1,0 +1,143 @@
+a {
+  color: #0F4C75;
+  font-family: 'Montserrat', sans-serif;
+  margin: auto;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+body {
+  color: #1B262C;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  color: #3282B8;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  line-height: 2;
+  margin: 3.125rem auto 0 auto;
+}
+
+h2 {
+  color: #3282B8;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding: 10px;
+}
+
+h3 {
+  color: #0F4C75;
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+  border-style: dotted none none none;
+  border-color: #3282B8;
+  border-width: 5px;
+  height: 0;
+  margin: 100px auto;
+  width: 5%;
+}
+
+p {
+  line-height: 2;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.bottom-container {
+  background-color: #3282B8;
+  padding: 50px 0 20px;
+}
+
+.btn {
+  background: #3282B8;
+  background-image: -webkit-linear-gradient(top, #3282B8, #0F4C75);
+  background-image: -moz-linear-gradient(top, #3282B8, #0F4C75);
+  background-image: -ms-linear-gradient(top, #3282B8, #0F4C75);
+  background-image: -o-linear-gradient(top, #3282B8, #0F4C75);
+  background-image: linear-gradient(to bottom, #3282B8, #0F4C75);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.footer-link {
+  color: #0F4C75;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.programming-image {
+  width: 25%;
+}
+
+.skill-image {
+  float: left;
+  width: 25%;
+  margin-right: 30px;
+}
+
+.skill-row {
+  margin: 100px auto;
+  text-align: left;
+  width: 50%;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.top-container {
+  background-color: #BBE1FA;
+  position: relative;
+  padding-top: 100px;
+  margin-bottom: 0;
+  padding-bottom: 0;
+  border-bottom: 0;
+}
+
+.underline {
+  text-decoration: underline;
+}
